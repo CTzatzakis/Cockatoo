@@ -8,6 +8,12 @@ Part of my Bachelor of Engineering Thesis
 ### Thesis authors 
   
   <a name="https://www.linkedin.com/in/chris-tzatzakis/"></a>C.Tzatzakis 
+  # Table of Contents
+
+* [Team Members](#team-members)
+
+# <a name="team-members"></a>Team Members
+* "J. Jesus. P. Aguinaga" <admin@listforks.com>
   
   M.Kontofaka 
 
