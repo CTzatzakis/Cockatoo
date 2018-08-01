@@ -5,7 +5,7 @@ A Human Resources Liaison Office component for Joomla CMS
 
 Part of my Bachelor of Engineering Thesis
 
-Thesis C.Tzatzakis & M.Kontofaka 
+Thesis authors C.Tzatzakis & M.Kontofaka 
 
 ## Project information 
 
