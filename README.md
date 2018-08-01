@@ -28,7 +28,7 @@ A Human Resources Liaison Office Web application
 
 Web application development for a human resources liaison office. Standalone component developed & designed for Joomla 3.0 CMS which embodied all possible uses and measures of security. 
 
-### Cockatoo info 
+### Cockatoo information 
 
 Component for both user and Administrator interface with some of it's functionalities stated below.
 
