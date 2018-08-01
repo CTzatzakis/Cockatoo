@@ -2,9 +2,9 @@
 A Human Resources Liaison Office component for Joomla CMS
 
 # Table of Contents
-* [Motivation](#Motivation)
+* [Motivation](#motivation)
 * [Team Members](#team-members)
-* [Project information](#Project-information)
+* [Project information](#project-information)
 
 ## Motivation
 
