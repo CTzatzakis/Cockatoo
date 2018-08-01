@@ -8,8 +8,8 @@ A Human Resources Liaison Office component for Joomla CMS
 * [Description](#description)
 * [Cockatoo info](#cockatoo-info)
 * [Development infrastructure](#development-infrastructure)
-
-
+* [Installation](#installation)
+* [License](#license)
 
 ## Motivation
 
@@ -45,3 +45,18 @@ DB: MySQL
 
 Host: Apache Server
 
+## Installation
+
+1. Download the extension to your local machine as a zip file package.
+
+2. Go to Joomla Administrator (www.your-site.com/administrator) -> Extensions -> Install/Uninstall
+
+3. In the "Extension Manager" choose the first option 'Upload Package File'.
+
+4. Click the "Browse..." button to select the zip file from your computer.
+
+5. Click the "Upload File & Install" button.
+
+## License
+
+This project is licensed under the GNU GENERAL PUBLIC LICENSE, Version 3 - see the [LICENSE](LICENSE) file for details
