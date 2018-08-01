@@ -1,21 +1,19 @@
 # Cockatoo
 A Human Resources Liaison Office component for Joomla CMS
 
+# Table of Contents
+* [Motivation](#Motivation)
+* [Team Members](#team-members)
+* [Project information](#Project-information)
+
 ## Motivation
 
 Part of my Bachelor of Engineering Thesis
 
-### Thesis authors 
-  
-  <a name="https://www.linkedin.com/in/chris-tzatzakis/"></a>C.Tzatzakis 
-  # Table of Contents
-
-* [Team Members](#team-members)
-
-# <a name="team-members"></a>Team Members
-* "J. Jesus. P. Aguinaga" <admin@listforks.com>
-  
-  M.Kontofaka 
+## Team Members 
+* "C.Tzatzakis" <https://www.linkedin.com/in/chris-tzatzakis/>
+* "M.Kontofaka"  
+   
 
 ## Project information 
 
