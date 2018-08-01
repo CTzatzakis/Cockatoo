@@ -5,6 +5,11 @@ A Human Resources Liaison Office component for Joomla CMS
 * [Motivation](#motivation)
 * [Team Members](#team-members)
 * [Project information](#project-information)
+* [Description](#description)
+* [Cockatoo info](#cockatoo-info)
+* [Development infrastructure](#development-infrastructure)
+
+
 
 ## Motivation
 
@@ -19,7 +24,7 @@ Part of my Bachelor of Engineering Thesis
 
 A Human Resources Liaison Office Web application 
 
-### Project description
+### Description
 
 Web application development for a human resources liaison office. Standalone component developed & designed for Joomla 3.0 CMS which embodied all possible uses and measures of security. 
 
