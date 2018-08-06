@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/CTzatzakis/Cockatoo/master/logo.png" width="267" height="62" alt="Cockatoo_logo" align="left">
 # Cockatoo
 A Human Resources Liaison Office component for Joomla CMS
 ## Preview
