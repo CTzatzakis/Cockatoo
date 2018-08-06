@@ -2,9 +2,9 @@
 A Human Resources Liaison Office component for Joomla CMS
 ## Preview
 
-[HRLO Cockatoo Main Page]        |  [Second Image Title]
+HRLO Cockatoo Main Page        |  [Second Image Title]
 :-------------------------:|:-------------------------:
-![cockatoo_main](https://raw.githubusercontent.com/CTzatzakis/Cockatoo/master/preview_cockatoo.jpg)       |  ![text]([Image URL])
+![cockatoo_main](https://raw.githubusercontent.com/CTzatzakis/Cockatoo/master/preview_cockatoo.jpg)       |  ![text](https://raw.githubusercontent.com/CTzatzakis/Cockatoo/master/preview_cockatoo.jpg)
 
 # Table of Contents
 * [Motivation](#motivation)
