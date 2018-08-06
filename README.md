@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/CTzatzakis/Cockatoo/master/Cockatoo_logo.png" width="267" height="62" alt="Cockatoo_logo" align="left">
+<img src="https://raw.githubusercontent.com/CTzatzakis/Cockatoo/master/Cockatoo_logo.png" width="267" height="62" style="right:-200" background="url(https://raw.githubusercontent.com/CTzatzakis/Cockatoo/master/Cockatoo_logo.png)" 0 0; alt="Cockatoo_logo" align="left">
 
 # Cockatoo
 
